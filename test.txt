@@ -1,2 +1,3 @@
 My first test of git!
 Second test!
+Third test!
